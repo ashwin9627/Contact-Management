@@ -1,0 +1,5 @@
+E:\ContactManagement\Shared\bin\Debug\Shared.dll
+E:\ContactManagement\Shared\bin\Debug\Shared.pdb
+E:\ContactManagement\Shared\obj\Debug\Shared.dll
+E:\ContactManagement\Shared\obj\Debug\Shared.pdb
+E:\ContactManagement\Shared\obj\Debug\Shared.csprojResolveAssemblyReference.cache

@@ -1,0 +1,14 @@
+E:\ContactManagement\ContactManagement\bin\Debug\ContactManagement.exe.config
+E:\ContactManagement\ContactManagement\bin\Debug\ContactManagement.exe
+E:\ContactManagement\ContactManagement\bin\Debug\ContactManagement.pdb
+E:\ContactManagement\ContactManagement\bin\Debug\Model.dll
+E:\ContactManagement\ContactManagement\bin\Debug\Shared.dll
+E:\ContactManagement\ContactManagement\bin\Debug\Model.pdb
+E:\ContactManagement\ContactManagement\bin\Debug\Shared.pdb
+E:\ContactManagement\ContactManagement\obj\Debug\ContactManagement.csprojResolveAssemblyReference.cache
+E:\ContactManagement\ContactManagement\obj\Debug\ContactManagement.exe
+E:\ContactManagement\ContactManagement\obj\Debug\ContactManagement.pdb
+E:\ContactManagement\ContactManagement\bin\Debug\BussinessLogic.dll
+E:\ContactManagement\ContactManagement\bin\Debug\DataLayer.dll
+E:\ContactManagement\ContactManagement\bin\Debug\BussinessLogic.pdb
+E:\ContactManagement\ContactManagement\bin\Debug\DataLayer.pdb

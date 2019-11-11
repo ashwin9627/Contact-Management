@@ -1,0 +1,11 @@
+E:\ContactManagement\BussinessLogic\obj\Debug\BussinessLogic.csprojResolveAssemblyReference.cache
+E:\ContactManagement\BussinessLogic\bin\Debug\BussinessLogic.dll
+E:\ContactManagement\BussinessLogic\bin\Debug\BussinessLogic.pdb
+E:\ContactManagement\BussinessLogic\bin\Debug\DataLayer.dll
+E:\ContactManagement\BussinessLogic\bin\Debug\Model.dll
+E:\ContactManagement\BussinessLogic\bin\Debug\Shared.dll
+E:\ContactManagement\BussinessLogic\bin\Debug\DataLayer.pdb
+E:\ContactManagement\BussinessLogic\bin\Debug\Model.pdb
+E:\ContactManagement\BussinessLogic\bin\Debug\Shared.pdb
+E:\ContactManagement\BussinessLogic\obj\Debug\BussinessLogic.dll
+E:\ContactManagement\BussinessLogic\obj\Debug\BussinessLogic.pdb

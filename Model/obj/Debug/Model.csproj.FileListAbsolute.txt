@@ -1,0 +1,7 @@
+E:\ContactManagement\Model\bin\Debug\Model.dll
+E:\ContactManagement\Model\bin\Debug\Model.pdb
+E:\ContactManagement\Model\bin\Debug\Shared.dll
+E:\ContactManagement\Model\bin\Debug\Shared.pdb
+E:\ContactManagement\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\ContactManagement\Model\obj\Debug\Model.dll
+E:\ContactManagement\Model\obj\Debug\Model.pdb

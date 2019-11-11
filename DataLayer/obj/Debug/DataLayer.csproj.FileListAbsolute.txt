@@ -1,0 +1,9 @@
+E:\ContactManagement\DataLayer\bin\Debug\DataLayer.dll
+E:\ContactManagement\DataLayer\bin\Debug\DataLayer.pdb
+E:\ContactManagement\DataLayer\bin\Debug\Model.dll
+E:\ContactManagement\DataLayer\bin\Debug\Shared.dll
+E:\ContactManagement\DataLayer\bin\Debug\Model.pdb
+E:\ContactManagement\DataLayer\bin\Debug\Shared.pdb
+E:\ContactManagement\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+E:\ContactManagement\DataLayer\obj\Debug\DataLayer.dll
+E:\ContactManagement\DataLayer\obj\Debug\DataLayer.pdb
